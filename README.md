@@ -1,6 +1,6 @@
 # Hi there! I'm Jonas 👋
 
-I'm a Computer Science Student @ **UFCG** (Universidade Federal de Campina Grande), focused on Backend development, performance optimization, and clean code architecture.
+I'm a Computer Science Student @ **UFCG** (Universidade Federal de Campina Grande), currently focused on Backend development, performance optimization, and clean code architecture.
 
 ---
 
